@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/APIPython/mlruns/656328586754405917/7bb614322dcd459a8d7b74d88facbdba/artifacts
+end_time: 1747231676229
+entry_point_name: ''
+experiment_id: '656328586754405917'
+lifecycle_stage: active
+run_id: 7bb614322dcd459a8d7b74d88facbdba
+run_name: persistent-lark-334
+run_uuid: 7bb614322dcd459a8d7b74d88facbdba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231671063
+status: 4
+tags: []
+user_id: DatGo

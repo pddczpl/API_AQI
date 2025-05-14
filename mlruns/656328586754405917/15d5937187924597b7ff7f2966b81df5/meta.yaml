@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/APIPython/mlruns/656328586754405917/15d5937187924597b7ff7f2966b81df5/artifacts
+end_time: 1747115544145
+entry_point_name: ''
+experiment_id: '656328586754405917'
+lifecycle_stage: active
+run_id: 15d5937187924597b7ff7f2966b81df5
+run_name: smiling-sheep-484
+run_uuid: 15d5937187924597b7ff7f2966b81df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747115497157
+status: 3
+tags: []
+user_id: DatGo
